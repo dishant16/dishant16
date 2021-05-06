@@ -2,7 +2,7 @@
 # 👋HELLO WORLD  <img src="https://www.animatedimages.org/data/media/1667/animated-world-globe-image-0036.gif"  width="5%"/> 
 
 ✔✔  Hello Everyone, I am student and currently pursuing a degree at [Charusat University](https://www.charusat.ac.in/)
- - Hi, I am currently  working on Android Application 📱.
+ - I am Dishant Lathiya.
  - I’m on a way to become Computer Engineer(3rd year)
  - You can reach me via dishantlathiya222@gmail.com
  
